@@ -1,0 +1,139 @@
+body
+{
+    background: url(./pexels-elti-meshau-333850.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#c1
+{
+    background-color:rgba(117, 243, 14, 0.151);
+    font-size: xx-large;
+    width:900px;
+    height:65px;
+    margin:auto;
+    text-align: center;
+    color:azure;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+#ttt
+{
+    display: flex;
+    background: rgba(134, 41, 41, 0.603);
+    margin: auto;
+    width: 1350px;
+    justify-content: space-around;
+}
+#c2
+{
+    display: flex;
+    background: rgba(82, 66, 66, 0.7);   
+    height: 530px;
+    width: 1350px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;;
+    text-decoration: solid;
+}
+#i1
+{
+    border: 3px solid greenyellow;
+    border-top-left-radius: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#i2
+{
+    border: 3px solid rgb(158, 255, 11);
+    margin-top: 20px;
+}
+#i3
+{
+    border: 3px solid greenyellow;
+    border-top-right-radius: 50px;
+    margin-top: 20px;
+}
+#i4
+{
+    border: 3px solid rgb(158, 255, 11);
+    margin-top: 5px;
+    margin-left: 20px;
+}#i5
+{
+    border: 3px solid rgb(158, 255, 11);
+    margin-top: 5px;
+}#i6
+{
+    border: 3px solid rgb(158, 255, 11);
+    margin-top: 5px;
+}
+#i7
+{
+    border: 3px solid greenyellow;
+    border-bottom-left-radius: 50px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#i8
+{
+    border: 3px solid rgb(158, 255, 11);
+    margin-top: 5px;
+}
+#i9
+{
+    border: 3px solid greenyellow;
+    border-bottom-right-radius: 50px;
+    margin-top: 5px;
+}
+#ii1
+{
+    border: 3px solid rgb(235, 8, 8);
+    border-top-left-radius: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#ii2
+{
+    border: 3px solid rgb(235, 8, 8);
+    margin-top: 20px;
+}
+#ii3
+{
+    border: 3px solid rgb(235, 8, 8);
+    border-top-right-radius: 50px;
+    margin-top: 20px;   
+}
+#ii4
+{
+    border: 3px solid rgb(235, 8, 8);
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#ii5
+{
+    border: 3px solid rgb(235, 8, 8);
+    margin-top: 5px;
+}
+#ii6
+{
+    border: 3px solid rgb(235, 8, 8);
+    margin-top: 5px;
+}
+#ii7
+{
+    border: 3px solid rgb(235, 8, 8);
+    border-bottom-left-radius: 50px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+#ii8
+{
+    border: 3px solid rgb(235, 8, 8);
+    margin-top: 5px;
+}
+#ii9
+{
+    border: 3px solid rgb(235, 8, 8);
+    border-bottom-right-radius: 50px;
+    margin-top: 5px;
+}
